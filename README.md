@@ -11,7 +11,7 @@ yarn add @zeit-ui/themes
 
 ### Import
 
-  - In `.js` file: `import '@zeit-ui/themes/index'`
+  - In `.js` file: `import '@zeit-ui/themes/index.css'`
   
   - Or `.(css|stylus|styl|scss|sass)` file: `@import '~@zeit-ui/themes/index.css'`
 
