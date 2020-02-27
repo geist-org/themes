@@ -1,6 +1,6 @@
 {
   "name": "@zeit-ui/themes",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "main": "index",
   "module": "index",
   "style": "index",
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/zeit-ui/themes.git"
   },
-  "author": "WittBulter (lambdas.dev@gmail.com)",
+  "author": "unix (lambdas.dev@gmail.com)",
   "devDependencies": {
     "css-loader": "^3.0.0",
     "mini-css-extract-plugin": "^0.7.0",
