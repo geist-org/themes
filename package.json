@@ -1,5 +1,5 @@
 {
-  "name": "@zeit-ui/themes",
+  "name": "@geist-ui/themes",
   "version": "1.0.0",
   "main": "index",
   "module": "index",
@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeit-ui/themes.git"
+    "url": "git+https://github.com/geist-ui/themes.git"
   },
-  "author": "unix (lambdas.dev@gmail.com)",
+  "author": "Geist Org",
   "devDependencies": {
     "css-loader": "^3.0.0",
     "mini-css-extract-plugin": "^0.7.0",
